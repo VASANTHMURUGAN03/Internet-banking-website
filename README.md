@@ -1,2 +1,2 @@
 # Internet-banking-website
-I developed this banking website using html,css 
+I developed this banking website using html,css and javascript
